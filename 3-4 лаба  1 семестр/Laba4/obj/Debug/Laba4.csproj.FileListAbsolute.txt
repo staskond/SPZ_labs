@@ -1,0 +1,25 @@
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\bin\Debug\Laba4.exe.config
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.MainForm.resources
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\bin\Debug\Laba4.exe
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\bin\Debug\Laba4.pdb
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.exe
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.pdb
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.DeviceForm.resources
+c:\users\максим\documents\visual studio 2013\Projects\Laba4\Laba4\obj\Debug\Laba4.DriverForm.resources
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\4 лаба  1 семестр\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\4 лаба  1 семестр\Laba4\obj\Debug\Laba4.exe
+C:\Users\Максим\Documents\Visual Studio 2013\Projects\4 лаба  1 семестр\Laba4\obj\Debug\Laba4.pdb
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.exe
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.pdb
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\bin\Debug\Laba4.exe
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\bin\Debug\Laba4.pdb
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.DeviceForm.resources
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.DriverForm.resources
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.MainForm.resources
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\stask\Downloads\3-4_Laba_1_Semestr\3-4 лаба  1 семестр\Laba4\obj\Debug\Laba4.csproj.GenerateResource.Cache
